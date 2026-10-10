@@ -159,6 +159,9 @@
     <EmbeddedResource Include="DashBoard.resx">
       <DependentUpon>DashBoard.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="last.resx">
+      <DependentUpon>last.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="loginForm.resx">
       <DependentUpon>loginForm.h</DependentUpon>
     </EmbeddedResource>
