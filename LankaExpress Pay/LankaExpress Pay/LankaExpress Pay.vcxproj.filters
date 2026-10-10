@@ -18,9 +18,21 @@
     <ClCompile Include="loginForm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DashBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Add vehical.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="loginForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DashBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Add vehical.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,1 +1,5 @@
 C:\Users\DELL\OneDrive\Desktop\LankaExpress Pay\LankaExpress Pay\LankaExpress Pay\x64\Debug\LankaExpress Pay.vcxproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\LankaExpress Pay\LankaExpress Pay\LankaExpress Pay\x64\Debug\LankaExpressPay.loginForm.resources
+C:\Users\DELL\OneDrive\Desktop\LankaExpress Pay\LankaExpress Pay\LankaExpress Pay\x64\Debug\LankaExpress Pay.vcxproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\LankaExpress Pay\LankaExpress Pay\LankaExpress Pay\x64\Debug\LankaExpressPay.DashBoard.resources
+C:\Users\DELL\OneDrive\Desktop\LankaExpress Pay\LankaExpress Pay\LankaExpress Pay\x64\Debug\LankaExpressPay.Add vehical.resources

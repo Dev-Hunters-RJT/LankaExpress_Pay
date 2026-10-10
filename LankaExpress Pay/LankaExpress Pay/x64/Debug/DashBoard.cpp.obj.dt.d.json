@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dell\\onedrive\\desktop\\lankaexpress pay\\lankaexpress pay\\lankaexpress pay\\dashboard.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\dell\\onedrive\\desktop\\lankaexpress pay\\lankaexpress pay\\lankaexpress pay\\dashboard.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

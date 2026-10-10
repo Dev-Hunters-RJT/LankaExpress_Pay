@@ -1,5 +1,5 @@
-﻿  loginForm.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+﻿  Add vehical.cpp
+  loginForm.cpp
   Generating Code...
-  loginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Add vehical.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   LankaExpress Pay.vcxproj -> C:\Users\DELL\OneDrive\Desktop\LankaExpress Pay\LankaExpress Pay\x64\Debug\LankaExpress Pay.exe

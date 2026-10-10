@@ -1,4 +1,6 @@
 #include "loginform.h"
+#include "DashBoard.h"
+#include "Add vehical.h"
 
 
 
@@ -9,6 +11,6 @@ using namespace System::Windows::Forms;
 int main(array<String^>^ args) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
-	LankaExpressPay::loginForm  form;
+	LankaExpressPay::Addvehical form;
 	Application::Run(% form);
 }
