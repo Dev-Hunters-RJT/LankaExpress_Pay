@@ -135,6 +135,7 @@
   <ItemGroup>
     <ClCompile Include="Add vehical.cpp" />
     <ClCompile Include="DashBoard.cpp" />
+    <ClCompile Include="last.cpp" />
     <ClCompile Include="loginForm.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -142,6 +143,9 @@
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="DashBoard.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="last.h">
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="loginForm.h">
